@@ -79,7 +79,6 @@ Para replicar esta análise, siga os passos abaixo:
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/lWolgrand/alura-challenger-telecomx2
-    cd NOME_DO_REPOSITORIO
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
